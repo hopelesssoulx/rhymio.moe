@@ -1,15 +1,21 @@
 /* 导航栏动画 */
 #navbar {
     transition: all 0.6s;
-    /* font-size: 1rem; */
 }
 
-.navbar .nav-item .nav-link {
+.nav-item {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav-item::after {
     display: block;
-    color: var(--navbar-text-color);
-    transition: color 0.6s, background-color 0.6s;
+    content: "";
+    border-bottom: 2px solid #ec5864;
+    width: 0;
+    transition: width 0.6s ease-in-out;
 }
 
-.navbar .nav-item .nav-link i {
-    /* font-size: 1rem; */
+.nav-item:hover::after {
+    width: 100%;
 }

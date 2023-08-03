@@ -150,8 +150,8 @@ color:
 
   # 顶部菜单字体色
   # Color of navigation bar text
-  navbar_text_color: "#fff"
-  navbar_text_color_dark: "#d0d0d0"
+  navbar_text_color: "#ec5864"
+  navbar_text_color_dark: "#ec5864"
 
   # 副标题字体色
   # Color of navigation bar text
@@ -190,8 +190,8 @@ color:
 
   # 超链接悬浮时字体色
   # Color of link when hovering
-  link_hover_color: "#30a9de"
-  link_hover_color_dark: "#30a9de"
+  link_hover_color: "#ec5864"
+  link_hover_color_dark: "#ec5864"
 
   # 超链接悬浮背景色
   # Color of link background when hovering
@@ -470,7 +470,7 @@ index:
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
   # Available: 0 - 1.0
-  banner_mask_alpha: 0.3
+  banner_mask_alpha: 0.0
 
   # 首页副标题的独立设置
   # Independent config of home page subtitle
