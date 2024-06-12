@@ -8,10 +8,10 @@ date: 2023-10-18 00:48:14
     <div>@rhymio</div>
     <div>@月曜/月谣/月訬</div><br/>
     <div class="list">
-        <div>
+        <!-- <div>
             <div>QQ: </div>
             <div>2823936233</div>
-        </div>
+        </div> -->
         <div>
             <a href="mailto:hopelesssoulx@gmail.com">Email<span class="gg-link"></span></a>
             <div>
