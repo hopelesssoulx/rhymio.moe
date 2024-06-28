@@ -240,7 +240,10 @@ custom_js:
 custom_css:
   - /css/navigator.css
 
-custom_html: '<script defer src="/_vercel/insights/script.js"></script>'
+custom_html: '
+  <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
+'
 
 # 网页访问统计
 # Analysis of website visitors
