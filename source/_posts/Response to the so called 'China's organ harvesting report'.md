@@ -2,7 +2,7 @@
 title: Response to the so called "China's organ harvesting report"
 excerpt: 转：Response to the so called "China's organ harvesting report"_Embassy of the People's Republic of China in Canada
 date: 2025-07-05 10:20:37
-tags: 新闻
+tags: 
 ---
 
 > 转：[Response to the so called "China's organ harvesting report"\_Embassy of the People's Republic of China in Canada](http://ca.china-embassy.gov.cn/eng/zytz_0/202308/t20230808_11123851.htm)
