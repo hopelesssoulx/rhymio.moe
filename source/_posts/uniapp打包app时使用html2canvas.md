@@ -1,6 +1,5 @@
 ---
 title: uniapp打包app时使用html2canvas画图并预览
-excerpt: 阿巴阿巴
 date: 2025-04-07 11:38:20
 tags: [uniapp, vue2, app, html2canvas, renderjs, 打包]
 ---
