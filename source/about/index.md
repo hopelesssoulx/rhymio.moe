@@ -6,7 +6,7 @@ date: 2023-10-18 00:48:14
 <html>
     <div>过客</div><br/><br/>
     <div>@rhymio</div>
-    <div>@月曜/月谣/月訬</div><br/>
+    <div>@月谣</div><br/>
     <div class="list">
         <!-- <div>
             <div>QQ: </div>
